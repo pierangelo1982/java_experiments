@@ -1,1 +1,8 @@
 .env
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Class Files #
+*.class
